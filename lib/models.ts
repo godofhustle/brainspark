@@ -1,0 +1,1 @@
+export const DEFAULT_MODEL_ID = "meta/llama-3.1-70b-instruct";
